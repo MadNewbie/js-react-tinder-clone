@@ -304,11 +304,14 @@ nav .logo-container .logo {
 
 /*--- Chat Display ---*/
 
-.chat-display {
+.chat-display,
+.matches-display {
     padding: 20px;
     height: 60vh;
     overflow-y: auto;
 }
+
+/*--- Chat Input ---*/
 
 .chat-input {
     padding: 20px;
